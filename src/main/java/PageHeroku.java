@@ -1,4 +1,4 @@
-public class TestPageHeroku
+public class PageHeroku
 {
     private String authorName = "By.css body > div > address:nth-child(6) > a:nth-child(1)";
     private String firstListthirdElement = "By.css body > div > ul > li:nth-child(3)";
